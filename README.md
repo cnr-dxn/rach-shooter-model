@@ -6,6 +6,7 @@
 File overview:
 - `rach_alc_model.py`: the main model script which can be launched with a simple python interpreter.  
 - `curr_alcs.xlsx`: where the data is stored. A ranking of `0` represents the spirit to be predicted and `-1` represents a spirit loaded into the pandas dataframe but not trained upon (as it hasnt been tested yet).
+- `hyper_param.py`: script that I use to hyperparameter tune the model (run remotely usually)
 - `notebooks/new_notebook.ipynb`: a (somewhat) regularly updated jupyter notebook that is used to view plots. 
 - `junk/`: scrapped/old methods I'm keeping for posterity's sake
 
