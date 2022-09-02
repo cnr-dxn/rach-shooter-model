@@ -1,0 +1,27 @@
+﻿id,rank,name,alc_percentage,if_sweet,if_fruit_on_bottle,if_citrus,shooter_plastic,type,color,brand
+0,1,kinky pink,0.17,1,1,1,1,vodka,red,kinky
+1,2,smirnoff raspberry,0.35,1,1,0,1,vodka,clear,smirnoff
+2,3,smirnoff peach lemonade,0.35,1,1,1,1,vodka,orange,smirnoff
+3,4,smirnoff pink lemonade,0.35,1,1,1,1,vodka,red,smirnoff
+4,5,kinky aloha,0.17,1,1,1,1,vodka,clear,kinky
+5,6,smirnoff berry lemon sour,0.3,1,1,1,1,vodka,blue,smirnoff
+6,7,kinky green,0.17,1,1,0,1,vodka,green,kinky
+7,8,crown apple,0.35,1,1,0,1,whiskey,brown,crown
+8,9,new amsterdam,0.35,1,1,0,1,vodka,clear,new amsterdam
+9,10,skrewball,0.35,1,0,0,1,whiskey,brown,skrewball
+10,11,captain morgan spiced rum,0.35,0,0,0,1,rum,brown,captain morgan
+11,12,stoli pineapple,0.3,1,1,1,1,vodka,clear,stoli
+12,13,smirnoff green apple sour,0.3,1,1,0,1,vodka,green,smirnoff
+13,14,sauza tequila silver,0.4,0,0,0,1,tequila,clear,sauza
+14,15,jose cuervo silver,0.4,0,0,0,1,tequila,clear,jose cuervo
+15,16,sauza tequila gold,0.4,0,0,0,1,tequila,brown,sauza
+16,17,jose cuervo gold,0.4,0,0,0,1,tequila,brown,jose cuervo
+17,18,ole smoky moonshine blackberry,0.2,1,1,0,0,moonshine,purple,ole smoky
+18,19,jagermeister,0.35,1,0,0,0,liqueur,black,jagermeister
+19,20,smirnoff peppermint,0.35,1,0,0,1,vodka,clear,smirnoff
+20,21,jack daniels tenessee honey,0.35,1,0,0,1,whiskey,brown,jack daniels
+21,22,southern comfort,0.35,1,0,0,1,liqueur,brown,southern comfort
+22,23,fireball,0.33,1,0,0,1,whiskey,brown,fireball
+23,24,smirnoff spicy,0.35,0,0,0,1,voda,clear,smirnoff
+24,25,campari,0.24,1,0,0,0,liqueur,red,campari
+25,26,bombay saphire,0.47,0,0,0,0,gin,clear,bombay
