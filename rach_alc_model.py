@@ -8,8 +8,8 @@ from sklearn.metrics import r2_score, accuracy_score, f1_score, mean_absolute_pe
 from xgboost import XGBRegressor
 from twilio.rest import Client
 
-account_sid = 'AC2c24a6887a6eba1fa7a346380331e1e1'
-auth_token = '2a77152f9c8cb363edc78b5bf8c5c601'
+account_sid = 'xxx'
+auth_token = 'xxx'
 client = Client(account_sid, auth_token)
 
 print("preparing the df...")
